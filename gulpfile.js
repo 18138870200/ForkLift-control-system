@@ -1,6 +1,6 @@
 
 'use strict';
-
+//测试远程同步
 var gulp        = require('gulp'),
     browserSync = require('browser-sync').create(),
     minify      = require('gulp-minify'),
