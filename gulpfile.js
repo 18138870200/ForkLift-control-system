@@ -1,5 +1,6 @@
 
 'use strict';
+//测试 pull request
 //测试远程同步
 var gulp        = require('gulp'),
     browserSync = require('browser-sync').create(),
