@@ -2,6 +2,8 @@
 'use strict';
 //测试 pull request
 //测试远程同步
+//this branch is in junbo
+
 var gulp        = require('gulp'),
     browserSync = require('browser-sync').create(),
     minify      = require('gulp-minify'),
