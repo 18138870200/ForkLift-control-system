@@ -1,0 +1,15 @@
+body{
+	background-color: white;
+}
+
+div {
+	background-color: yellow;
+}
+
+p{
+	background-color: green;
+}
+
+.left {
+	background-color: black;
+}
